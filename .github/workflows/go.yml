@@ -6,8 +6,7 @@ on:
     branches: [ "main" ]
 
 jobs:
-
-  learn-go-tdd-build-tests:
+  learn-go-with-tests:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v4
