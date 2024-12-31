@@ -1,4 +1,4 @@
-package main
+package interation
 
 const repeatCount = 5
 
