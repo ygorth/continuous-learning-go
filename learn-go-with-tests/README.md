@@ -16,7 +16,7 @@ The workshop aims to strengthen the network for remote work and immigration, as 
 ## 🤝 How We Will Interact
 
 - **Discord:** Exclusive voice channel for participants who register through the link below.
-- **Live Streaming:** For those who prefer just to watch, the sessions will be available on [YouTube](https://www.youtube.com). Interaction via chat is welcome!
+- **Live Streaming:** For those who prefer just to watch, the sessions will be available on [YouTube](https://youtu.be/EN6Ovhj6a00?si=Nmn-57Y1a7KKbg74). Interaction via chat is welcome!
 - **Limited Slots:** 10 people.
 
 ## 👥 Who Should Register?
