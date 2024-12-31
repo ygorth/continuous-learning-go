@@ -1,0 +1,29 @@
+# This workflow will build a golang project
+name: Go 🚀
+
+on:
+  push:
+    branches: [ "main" ]
+
+jobs:
+
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v4
+
+    - name: Checkout Code 🛒
+      uses: actions/checkout@v4
+
+    - name: Set up Go Environment 🛠️
+      uses: actions/setup-go@v4
+      with:
+        go-version: '1.23.4'
+
+    - name: Build Project 🏗️
+      run: go build -v ./...
+      working-directory: ./learn-go-with-tests
+
+    - name: Run Tests ✅
+      run: go test -v ./...
+      working-directory: ./learn-go-with-tests
