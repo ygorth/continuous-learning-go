@@ -9,28 +9,35 @@
             "type": "go",
             "request": "launch",
             "mode": "test",
-            "program": "${workspaceFolder}/learn-go-with-tests/chapter1hello"
+            "program": "${workspaceFolder}/learn-go-with-tests/c1hello"
         },
         {
             "name": "Launch Chapter 2",
             "type": "go",
             "request": "launch",
             "mode": "test",
-            "program": "${workspaceFolder}/learn-go-with-tests/chapter2integers"
+            "program": "${workspaceFolder}/learn-go-with-tests/c2integers"
         },
         {
             "name": "Launch Chapter 3",
             "type": "go",
             "request": "launch",
             "mode": "test",
-            "program": "${workspaceFolder}/learn-go-with-tests/chapter3interation"
+            "program": "${workspaceFolder}/learn-go-with-tests/c3interation"
         },
         {
             "name": "Launch Chapter 4",
             "type": "go",
             "request": "launch",
             "mode": "test",
-            "program": "${workspaceFolder}/learn-go-with-tests/chapter4arraysslices"
+            "program": "${workspaceFolder}/learn-go-with-tests/c4arraysslices"
+        },
+        {
+            "name": "Launch Chapter 5",
+            "type": "go",
+            "request": "launch",
+            "mode": "test",
+            "program": "${workspaceFolder}/learn-go-with-tests/c5structsmethodsinterfaces"
         }
     ]
 }

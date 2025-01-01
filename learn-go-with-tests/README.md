@@ -1,5 +1,5 @@
 # Go Workshop (Golang) 🚀
-Code generated as part of the Go workshop I conducted for the community.
+Code generated as part of the Go workshop I conducted for the Brazil IT Remote community.
 
 ### Learn Golang with Tests (TDD) - Come join our community - [brazilitremote.org](https://www.brazilitremote.org/)
 ### 4th Quarter of 2024
@@ -11,13 +11,13 @@ Code generated as part of the Go workshop I conducted for the community.
 
 ## 🎯 Objective
 
-The workshop aims to strengthen the network for remote work and immigration, as well as improve the technical knowledge of the participants.
+The workshop intends to study the content together and share experiences about learning Go with TDD.
 
 ## 🤝 How We Will Interact
 
 - **Discord:** Exclusive voice channel for participants who register through the link below.
 - **Live Streaming:** For those who prefer just to watch, the sessions will be available on [YouTube](https://youtu.be/EN6Ovhj6a00?si=Nmn-57Y1a7KKbg74). Interaction via chat is welcome!
-- **Limited Slots:** 10 people.
+- **Limited Slots:** 15 people.
 
 ## 👥 Who Should Register?
 
@@ -28,10 +28,9 @@ The workshop aims to strengthen the network for remote work and immigration, as 
 
 ## 🧑‍🏫 Study Group Mentor
 
-The mentor has:
+Ygor Almeida has:
 - **12 years of experience** as a backend developer.
-- **Experience in companies like Ubisoft Canada.**
-- **Over 8 years as a DevOps Engineer and recruiter** for international remote positions.
+- **Over 8 years as a DevOps/Platform Engineer and recruiter**
 
 ## 📅 Schedule
 
