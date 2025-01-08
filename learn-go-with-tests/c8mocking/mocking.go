@@ -10,7 +10,6 @@ import (
 )
 
 const finalWord = "Go!"
-const countdownStart = 3
 const write = "write"
 const sleep = "sleep"
 
