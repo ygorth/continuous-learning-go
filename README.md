@@ -41,3 +41,4 @@ golangci-lint run`
 -   ⭐ [Awesome Go](https://awesome-go.com/)
 -   🛠️ [VSCode Go Tools](https://github.com/golang/vscode-go/blob/master/docs/tools.md)
 -   📦 [Go Modules by Example](https://github.com/go-modules-by-example/index/blob/master/009_submodules/README.md)
+-   🛠️ [race_detector dependency](https://github.com/skeeto/w64devkit)
