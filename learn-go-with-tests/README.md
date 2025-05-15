@@ -16,7 +16,7 @@ The workshop intends to study the content together and share experiences about l
 ## 🤝 How We Will Interact
 
 - **Discord:** Exclusive voice channel for participants who register through the link below.
-- **Live Streaming:** For those who prefer just to watch, the sessions will be available on [YouTube](https://youtu.be/EN6Ovhj6a00?si=Nmn-57Y1a7KKbg74). Interaction via chat is welcome!
+- **Live Streaming:** For those who prefer just to watch, the sessions will be available on [YouTube](https://www.youtube.com/watch?v=EN6Ovhj6a00&list=PLdNLJT04XfQ5OQjhQZrjSe9oJlg7Yi0v6). Interaction via chat is welcome!
 - **Limited Slots:** 15 people.
 
 ## 👥 Who Should Register?
@@ -26,11 +26,17 @@ The workshop intends to study the content together and share experiences about l
 - **Additional Benefits:** Participation in our GitHub organization, which can increase your chances of getting hired.
 - **Networking:** Opportunity to collaborate on Open-Source projects from the Linux Foundation.
 
+## How to Debug
+This project is configured for debugging. Simply select the chapter you want to debug, add your breakpoints, and run it. The unit tests will execute, and execution will pause at your breakpoints. See the image below:
+
+![vscode-debug](debug.png)
+
+
 ## 🧑‍🏫 Study Group Mentor
 
 Ygor Almeida has:
 - **12 years of experience** as a backend developer.
-- **Over 8 years as a DevOps/Platform Engineer and recruiter**
+- **Over 8 years as a SRE/DevOps Engineer**
 
 ## 📅 Schedule
 
