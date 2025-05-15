@@ -27,9 +27,11 @@ Learning Go for Site Reliability Engineering!
 
 ### 🔍 Go Linting: golangci-lint
 
-`# Ubuntu 
+```bash
+# Ubuntu 
 sudo snap install golangci-lint --edge
-golangci-lint run` 
+golangci-lint run
+```
 
 ## 📚 Learning Resources and Credits
 
