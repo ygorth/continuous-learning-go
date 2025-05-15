@@ -7,56 +7,140 @@
             "type": "go",
             "request": "launch",
             "mode": "test",
-            "program": "${workspaceFolder}/learn-go-with-tests/c1hello"
+            "program": "${workspaceFolder}/learn-go-with-tests/c1-hello"
         },
         {
             "name": "Launch Chapter 2",
             "type": "go",
             "request": "launch",
             "mode": "test",
-            "program": "${workspaceFolder}/learn-go-with-tests/c2integers"
+            "program": "${workspaceFolder}/learn-go-with-tests/c2-integers"
         },
         {
             "name": "Launch Chapter 3",
             "type": "go",
             "request": "launch",
             "mode": "test",
-            "program": "${workspaceFolder}/learn-go-with-tests/c3interation"
+            "program": "${workspaceFolder}/learn-go-with-tests/c3-interation"
         },
         {
             "name": "Launch Chapter 4",
             "type": "go",
             "request": "launch",
             "mode": "test",
-            "program": "${workspaceFolder}/learn-go-with-tests/c4arraysslices"
+            "program": "${workspaceFolder}/learn-go-with-tests/c4-arrays-slices"
         },
         {
             "name": "Launch Chapter 5",
             "type": "go",
             "request": "launch",
             "mode": "test",
-            "program": "${workspaceFolder}/learn-go-with-tests/c5structsmethodsinterfaces"
+            "program": "${workspaceFolder}/learn-go-with-tests/c5-structs-methods-interfaces"
         },
         {
             "name": "Launch Chapter 6",
             "type": "go",
             "request": "launch",
             "mode": "test",
-            "program": "${workspaceFolder}/learn-go-with-tests/c6pointerserrors"
+            "program": "${workspaceFolder}/learn-go-with-tests/c6-pointers-errors"
         },
         {
             "name": "Launch Chapter 7",
             "type": "go",
             "request": "launch",
             "mode": "test",
-            "program": "${workspaceFolder}/learn-go-with-tests/c7maps"
+            "program": "${workspaceFolder}/learn-go-with-tests/c7-maps"
         },
         {
             "name": "Launch Chapter 8",
             "type": "go",
             "request": "launch",
             "mode": "test",
-            "program": "${workspaceFolder}/learn-go-with-tests/c8mocking"
+            "program": "${workspaceFolder}/learn-go-with-tests/c8-dependency-injection"
+        },
+        {
+            "name": "Launch Chapter 9",
+            "type": "go",
+            "request": "launch",
+            "mode": "test",
+            "program": "${workspaceFolder}/learn-go-with-tests/c9-mocking"
+        },
+        {
+            "name": "Launch Chapter 10",
+            "type": "go",
+            "request": "launch",
+            "mode": "test",
+            "program": "${workspaceFolder}/learn-go-with-tests/c10-concurrency"
+        },
+        {
+            "name": "Launch Chapter 11",
+            "type": "go",
+            "request": "launch",
+            "mode": "test",
+            "program": "${workspaceFolder}/learn-go-with-tests/c11-select"
+        },
+        {
+            "name": "Launch Chapter 12",
+            "type": "go",
+            "request": "launch",
+            "mode": "test",
+            "program": "${workspaceFolder}/learn-go-with-tests/c12-reflection"
+        },
+        {
+            "name": "Launch Chapter 13",
+            "type": "go",
+            "request": "launch",
+            "mode": "test",
+            "program": "${workspaceFolder}/learn-go-with-tests/c13-sync"
+        },
+        {
+            "name": "Launch Chapter 14",
+            "type": "go",
+            "request": "launch",
+            "mode": "test",
+            "program": "${workspaceFolder}/learn-go-with-tests/c14-context"
+        },
+        {
+            "name": "Launch Chapter 15",
+            "type": "go",
+            "request": "launch",
+            "mode": "test",
+            "program": "${workspaceFolder}/learn-go-with-tests/c15-property-based-tests"
+        },
+        {
+            "name": "Launch Chapter 16",
+            "type": "go",
+            "request": "launch",
+            "mode": "test",
+            "program": "${workspaceFolder}/learn-go-with-tests/c16-maths"
+        },
+        {
+            "name": "Launch Chapter 17",
+            "type": "go",
+            "request": "launch",
+            "mode": "test",
+            "program": "${workspaceFolder}/learn-go-with-tests/c17-reading-files"
+        },
+        {
+            "name": "Launch Chapter 18",
+            "type": "go",
+            "request": "launch",
+            "mode": "test",
+            "program": "${workspaceFolder}/learn-go-with-tests/c18-templating"
+        },
+        {
+            "name": "Launch Chapter 19",
+            "type": "go",
+            "request": "launch",
+            "mode": "test",
+            "program": "${workspaceFolder}/learn-go-with-tests/c19-generics"
+        },
+        {
+            "name": "Launch Chapter 20",
+            "type": "go",
+            "request": "launch",
+            "mode": "test",
+            "program": "${workspaceFolder}/learn-go-with-tests/c20-arrays-slices-generics"
         }
     ]
 }
